@@ -1,4 +1,4 @@
-# [:] Example Ruby Project - try 2
+# [:] Example Ruby Project - try 3
 
 An example ruby project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
